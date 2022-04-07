@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Dwdb", "Dwdb\Dwdb.dtproj", "{8FC32F74-0C33-405D-98E7-AF50EB8CD89F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FC32F74-0C33-405D-98E7-AF50EB8CD89F}.Development|Default.ActiveCfg = Development
+		{8FC32F74-0C33-405D-98E7-AF50EB8CD89F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC2F03C7-33F2-4E74-9619-ECCD5B1A7317}
+	EndGlobalSection
+EndGlobal
